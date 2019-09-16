@@ -1,2 +1,2 @@
 # textutilswebsite
-This website is used to analyzed the text.
+This website is used to analyze the text.
